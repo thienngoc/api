@@ -1,38 +1,41 @@
-[
-    {
-	"id": 1,
-	"owner": "owner 1",
-	"inventory": "inven asdf",
-	"comment": "no comment"
-    },
-    {
-	"id": 2,
-	"owner": "super man",
-	"inventory": "no invent",
-	"comment": "i'm no.1"
-    },
-    {
-	"id": 3,
-	"owner": "hulk",
-	"inventory": "grrrrrr",
-	"comment": "destroyer"
-    },
-    {
-	"id": 4,
-	"owner": "wonder woman",
-	"inventory": "cute girl",
-	"comment": "best"
-    },
-    {
-	"id": 5,
-	"owner": "ant man",
-	"inventory": "too small",
-	"comment": "does't use for ant"
-    },
-	{
-	"id": 6,
-	"owner": "abc man",
-	"inventory": "abc",
-	"comment": "xyz"
-    }
-]
+{
+	"get":[
+		{
+		"id": 1,
+		"owner": "owner 1",
+		"inventory": "inven asdf",
+		"comment": "no comment"
+	    },
+	    {
+		"id": 2,
+		"owner": "super man",
+		"inventory": "no invent",
+		"comment": "i'm no.1"
+	    },
+	    {
+		"id": 3,
+		"owner": "hulk",
+		"inventory": "grrrrrr",
+		"comment": "destroyer"
+	    },
+	    {
+		"id": 4,
+		"owner": "wonder woman",
+		"inventory": "cute girl",
+		"comment": "best"
+	    },
+	    {
+		"id": 5,
+		"owner": "ant man",
+		"inventory": "too small",
+		"comment": "does't use for ant"
+	    },
+		{
+		"id": 6,
+		"owner": "abc man",
+		"inventory": "abc",
+		"comment": "xyz"
+	    }
+	]
+  
+}
