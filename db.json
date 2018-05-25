@@ -1,7 +1,6 @@
 {
 	"get":[
-		"project 1":
-		[
+		"project 1":[
 			{
 			"id": 1,
 			"owner": "owner 1",
@@ -45,8 +44,7 @@
 			"time": "12/1/1111"
 		    }
 		],
-		"project 2":
-		[
+		"project 2":[
 			{
 			"id": 1,
 			"owner": "owner 1",
